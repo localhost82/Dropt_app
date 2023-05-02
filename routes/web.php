@@ -27,9 +27,7 @@ Route::middleware(['auth', 'verified'])->group(function () {
 });
 
 
-//Route::get('/about', function () {
-//    return view('about');
-//});
+
 //
 //Route::get('/term', function () {
 //    return view('term');
